@@ -2,9 +2,6 @@ class Dog
   def fido.name = "Fido"
   end
  
-  def name
-    this_dogs_name
-  end
   
   def bark
     puts "woof!"
